@@ -12,11 +12,8 @@
 
 - ⚡ Fun fact **I'm an advocate with an INFJ personality type.**
 
-<p align="left">
-  Skills
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills : Languages and Tools.</h3>
 <h4> Frontend Development </h4>
 <p class="part-1">
    <b> ||🌷||</b>

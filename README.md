@@ -6,9 +6,9 @@
 <p> 🌷 I am a Software Engineering. who is interested in web development and Illustrator.  </p>
 <p> 🌷 My future is my passion when I design any software, and I can coding in Front-end developer, managing document, and testing software. </p>
 
-- 🌱 I’m currently learning **Angular Tutorial for Beginners.**
+- 🌱 I’m currently learning **Graphic Design Masterclass**
 
-- 📫 How to reach me **fondao21011999@gmail.com**
+- 📫 How to reach me **wjbenz.studio@gmail.com**
 
 - ⚡ Fun fact **I'm an advocate with an INFJ personality type.**
 

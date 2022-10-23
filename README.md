@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I'm an advocate with an INFJ personality type.**
 
--  🖼️  My illustrator :: <a href="https://instagram.com/wjbenz_draw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wjbenz_draw" height="30" width="40" /></a> 
+-  🖼️  My illustrator :: Nabee 🦋  <a href="https://www.instagram.com/wjbenz_studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wjbenz_draw" height="30" width="40" /></a> 
 
 
 

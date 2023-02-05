@@ -6,7 +6,7 @@
 <p> 🌷 I am a Software Engineering. who is interested in web development and Illustrator.  </p>
 <p> 🌷 My future is my passion when I design any software, and I can coding in Front-end developer, managing document, and testing software. </p>
 
-- 🌱 I’m currently learning **React Course - Beginner's Tutorial for React JavaScript Library [2022]**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **wjbenz.studio@gmail.com**
 
